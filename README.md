@@ -1,6 +1,9 @@
 This is my implementation of RS School task 'hangman' 
 https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman
 
+## DEPLOY
+https://sergiozeppo.github.io/alien-hangman/hangman/
+
 ### Project's Description
 
 [Hangman](<https://en.wikipedia.org/wiki/Hangman_(game)>) is a classic word game in which you must find the correct answer by guessing letters one at a time.
